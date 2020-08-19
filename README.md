@@ -15,7 +15,7 @@
 [<img align="left" alt="Tronax | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Tronax | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Tronax_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="TronaxYT | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Twitch.svg" />][twitch]
+[<img align="left" alt="TronaxYT | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
 <br />
 
@@ -31,7 +31,7 @@
 <br />
 
 :zap: Github Stats
-
+<br />
   <img align="left" alt="TronaxYT's Github Stats" src="https://github-readme-stats.tronaxyt.vercel.app/api?username=TronaxYT&show_icons=true&hide_border=true" />
 
 ---
