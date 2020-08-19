@@ -33,7 +33,9 @@
 :zap: Github Stats
 <br />
   <img align="left" alt="TronaxYT's Github Stats" src="https://github-readme-stats.tronaxyt.vercel.app/api?username=TronaxYT&show_icons=true&hide_border=true" />
-
+  
+<br />
+<br />
 ---
 
 [website]: https://tronax.xyz
