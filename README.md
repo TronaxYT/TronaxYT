@@ -30,12 +30,9 @@
 <br />
 <br />
 
-<details>
-    <summary>:zap: Github Stats</summary>
+:zap: Github Stats
 
   <img align="left" alt="TronaxYT's Github Stats" src="https://github-readme-stats.tronaxyt.vercel.app/api?username=TronaxYT&show_icons=true&hide_border=true" />
-
-</details>
 
 ---
 
