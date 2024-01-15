@@ -1,7 +1,7 @@
 ### Hi there, I'm Janik - aka [TronaxYT][website] 👋
 
 [![Website](https://img.shields.io/badge/tronax.xyz-up-green?style=for-the-badge)](https://tronax.xyz)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Tronax?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTronaxYT&screen_name=TronaxYT)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Tronax?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Tronax)
 
 ## I'm an apprentice for metalworking and Hobby developer!
 
